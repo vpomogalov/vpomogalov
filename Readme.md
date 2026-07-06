@@ -25,11 +25,11 @@
 
 <p align="left">
 <b>BIM и проектирование</b><br>
-Revit, Navisworks Manage, Autodesk Interoperability (Model Checker), BIMVision
+Revit, Navisworks Manage, BIMVision
 <br><br>
 <b>Разработка и автоматизация</b><br>
 C#, Dynamo, Python (pyRevit), Three.js, Unity, Blender, VS Code, VS
 </p>
 <b>Аналитика данных</b><br>
-PowerBI
+Autodesk Interoperability (Model Checker), PowerBI
 </p>
