@@ -31,5 +31,5 @@ Revit, Navisworks Manage, BIMVision
 C#, Dynamo, Python (pyRevit), Three.js, Unity, Blender, VS Code, VS
 </p>
 <b>Аналитика данных</b><br>
-Autodesk Interoperability (Model Checker), PowerBI
+Autodesk Interoperability (Model Checker), Power BI
 </p>
